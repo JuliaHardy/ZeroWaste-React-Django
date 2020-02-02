@@ -1,0 +1,14 @@
+export const GET_EVENTS = "GET_EVENTS";
+export const GET_SORTED_EVENTS = "GET_SORTED_EVENTS";
+export const GET_SELECTED_EVENTS = "GET_SELECTED_EVENTS";
+export const GET_MY_EVENTS = "GET_MY_EVENTS";
+export const DELETE_MY_EVENT = "DELETE_MY_EVENT";
+export const CREATE_MY_EVENT = "CREATE_MY_EVENT";
+export const USER_LOADING = "USER_LOADING";
+export const USER_LOADED = "USER_LOADED";
+export const AUTH_ERROR = "AUTH_ERROR";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGOUT_SUCCESS = "LOGOUT_SUCCESS";
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+export const LOGIN_FAIL = "LOGIN_FAIL";
